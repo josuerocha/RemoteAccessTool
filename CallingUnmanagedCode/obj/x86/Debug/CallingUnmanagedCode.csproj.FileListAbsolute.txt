@@ -1,0 +1,8 @@
+C:\Users\anon\Desktop\CallingUnmanagedCode\bin\Debug\CallingUnmanagedCode.exe
+C:\Users\anon\Desktop\CallingUnmanagedCode\bin\Debug\CallingUnmanagedCode.pdb
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.csprojResolveAssemblyReference.cache
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.Form1.resources
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.Properties.Resources.resources
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.csproj.GenerateResource.Cache
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.exe
+C:\Users\anon\Desktop\CallingUnmanagedCode\obj\x86\Debug\CallingUnmanagedCode.pdb

@@ -1,0 +1,27 @@
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\bin\Debug\Listener.exe.config
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.Form1.resources
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.Properties.Resources.resources
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.csproj.GenerateResource.Cache
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\bin\Debug\Listener.exe
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\bin\Debug\Listener.pdb
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.exe
+c:\users\anon\documents\visual studio 2015\Projects\Listener\Listener\obj\Debug\Listener.pdb
+C:\Users\anon\Desktop\Listener\Listener\bin\Debug\Listener.exe.config
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.exe
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.pdb
+C:\Users\anon\Desktop\Listener\Listener\bin\Debug\Listener.exe
+C:\Users\anon\Desktop\Listener\Listener\bin\Debug\Listener.pdb
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.Form1.resources
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.Properties.Resources.resources
+C:\Users\anon\Desktop\Listener\Listener\obj\Debug\Listener.csproj.GenerateResource.Cache
+G:\Projects\Listener\Listener\bin\Debug\Listener.exe.config
+G:\Projects\Listener\Listener\obj\Debug\Listener.exe
+G:\Projects\Listener\Listener\obj\Debug\Listener.pdb
+G:\Projects\Listener\Listener\bin\Debug\Listener.exe
+G:\Projects\Listener\Listener\bin\Debug\Listener.pdb
+G:\Projects\Listener\Listener\obj\Debug\Listener.csprojResolveAssemblyReference.cache
+G:\Projects\Listener\Listener\obj\Debug\Listener.Form1.resources
+G:\Projects\Listener\Listener\obj\Debug\Listener.Properties.Resources.resources
+G:\Projects\Listener\Listener\obj\Debug\Listener.csproj.GenerateResource.Cache

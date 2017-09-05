@@ -1,0 +1,5 @@
+c:\users\anon\documents\visual studio 2015\Projects\RemotingInterface\RemotingInterface\bin\Debug\RemotingInterface.dll
+c:\users\anon\documents\visual studio 2015\Projects\RemotingInterface\RemotingInterface\bin\Debug\RemotingInterface.pdb
+c:\users\anon\documents\visual studio 2015\Projects\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.csprojResolveAssemblyReference.cache
+c:\users\anon\documents\visual studio 2015\Projects\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.dll
+c:\users\anon\documents\visual studio 2015\Projects\RemotingInterface\RemotingInterface\obj\Debug\RemotingInterface.pdb

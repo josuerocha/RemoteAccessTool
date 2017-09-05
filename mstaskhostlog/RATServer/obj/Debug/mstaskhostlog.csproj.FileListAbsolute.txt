@@ -1,0 +1,37 @@
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.exe.config
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csprojResolveAssemblyReference.cache
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\RATServer.FakeDesktopForm.resources
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\RATServer.Form1.resources
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.Properties.Resources.resources
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csproj.GenerateResource.Cache
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.exe
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.pdb
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\bin\Debug\RemotingInterface.dll
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\bin\Debug\RemotingInterface.pdb
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.exe
+C:\Users\anon\Desktop\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.pdb
+C:\Users\ANON\Desktop\mstaskhostlog\RATServer\bin\Debug\InputSimulator.dll
+C:\Users\ANON\Desktop\mstaskhostlog\RATServer\bin\Debug\InputSimulator.pdb
+C:\Users\ANON\Desktop\mstaskhostlog\RATServer\bin\Debug\InputSimulator.xml
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.exe.config
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.exe
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.pdb
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.exe
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.pdb
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\RemotingInterface.dll
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\InputSimulator.pdb
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\InputSimulator.xml
+G:\Projects\mstaskhostlog\RATServer\bin\Debug\RemotingInterface.pdb
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csprojResolveAssemblyReference.cache
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\RATServer.FakeDesktopForm.resources
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\RATServer.Form1.resources
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.Properties.Resources.resources
+G:\Projects\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csproj.GenerateResource.Cache
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\bin\Debug\mstaskhostlog.exe.config
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.exe
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.pdb
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csprojResolveAssemblyReference.cache
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\RATServer.FakeDesktopForm.resources
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\RATServer.Form1.resources
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.Properties.Resources.resources
+C:\Users\anon\Dropbox\CEFET-MG\Projetos\RAT Tool\mstaskhostlog\RATServer\obj\Debug\mstaskhostlog.csproj.GenerateResource.Cache
